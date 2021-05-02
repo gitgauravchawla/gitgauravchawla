@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitgauravchawla
 - 👀 I’m interested in solving problems and automation
-- 🌱 I’m currently learning cloud platforms, linux, dockers, data visualization for it stack monitoring, performance testing, java.
+- 🌱 I’m currently learning cloud platforms, linux, dockers, data visualization for it stack monitoring, performance testing, software performance analysis and java.
 - 💞️ I’m looking to collaborate on solving problems and debugging code.
 - 📫 How to reach me gaurav.chawla091@gmail.com
 
